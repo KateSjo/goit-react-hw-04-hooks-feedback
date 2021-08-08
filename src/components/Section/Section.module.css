@@ -1,0 +1,9 @@
+.Section {
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.SectionTitle {
+  font-size: 30px;
+  line-height: 1.5em;
+}
